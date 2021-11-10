@@ -1,2 +1,1 @@
-# glass-effect01
-HTML + CSS Glass Effects
+<img src='https://img.shields.io/github/followers/blogchik?style=social' alt='Followers'>
